@@ -1,0 +1,27 @@
+.intro__list {
+  max-width: 690px;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 150%;
+  list-style: none;
+  color: #fff;
+}
+
+.intro__list span {
+  font-weight: 400;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .intro__list {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro__list {
+    min-width: 288px;
+  }
+}
