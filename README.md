@@ -15,4 +15,6 @@ https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mob
 
 ## Ссылка на репозиторий:
 https://github.com/victoriagaidarji/russian-travel.git
+
+## Ссылка на сайт:
 https://victoriagaidarji.github.io/russian-travel/
